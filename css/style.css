@@ -27,7 +27,7 @@ justify-content: space-between;
 h1{
     color: #E8F2D5;
 
-font-family: Young Serif;
+font-family: 'Young Serif';
 font-size: 3rem;
 font-style: normal;
 font-weight: 400;
@@ -87,6 +87,9 @@ justify-content: space-between;
 
 .splash {
     background-image: url(/img/felt.jpg);
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
 }
 
 a{
