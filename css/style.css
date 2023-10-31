@@ -10,7 +10,7 @@ body{
 
 color: #E8F2D5;
 margin: 0rem, auto;
-background-image: url(/img/claybackground.png);
+background-image: url(/img/Untitled-1.png);
 }
 
 
@@ -22,11 +22,6 @@ header {
 display:flex;
 align-items: center;
 justify-content: space-between;
-display: grid;
-grid-template-columns: repeat(12, 1fr);
-grid-column-gap: 1.5rem;
-grid-auto-flow: dense;
-grid-column: 12;
 
 }
 
@@ -38,7 +33,6 @@ font-size: 3rem;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-
 }
 
 h2{
@@ -56,7 +50,6 @@ nav {
 display: flex;
 align-items: center;
 justify-content: space-between;
-grid-column-start: 11;
 }
 
 main{
