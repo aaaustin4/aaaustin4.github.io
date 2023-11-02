@@ -88,7 +88,7 @@ justify-content: space-between;
 }
 .container {
     grid-column-start: 6;
-    position: relative;
+    position: relative
 
   }
   
